@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+
+#myProgress {
+  width: 300px;
+  background-color: rgb(207, 207, 207);
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: rgb(97, 255, 97);
+}
